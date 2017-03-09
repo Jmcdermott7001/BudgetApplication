@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="BudgetDBConnectionString-Web.config Connection String" description="BudgetDBConnectionString Connection String used in web.config by the application to access the database." defaultValue="Data Source=csbudget451.cb3tca7mvlf0.us-east-2.rds.amazonaws.com,1433;Initial Catalog=BudgetDB;User ID=team6database;Password=umkccs451" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="C:\\Users\\scotty\\Documents\\Visual\ Studio\ 2015\\Projects\\CreatingWebAPIService\\CreatingWebAPIService\\obj\\Debug\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='BudgetDBConnectionString']/@connectionString" />
+  </parameter>
+</parameters>

@@ -1,0 +1,112 @@
+C:\VS 2015 Projects\CreatingWebAPIService\CreatingWebAPIService\bin\roslyn\csc.exe
+C:\VS 2015 Projects\CreatingWebAPIService\CreatingWebAPIService\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\VS 2015 Projects\CreatingWebAPIService\CreatingWebAPIService\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\VS 2015 Projects\CreatingWebAPIService\CreatingWebAPIService\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\VS 2015 Projects\CreatingWebAPIService\CreatingWebAPIService\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\VS 2015 Projects\CreatingWebAPIService\CreatingWebAPIService\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\VS 2015 Projects\CreatingWebAPIService\CreatingWebAPIService\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\VS 2015 Projects\CreatingWebAPIService\CreatingWebAPIService\bin\roslyn\System.Collections.Immutable.dll
+C:\VS 2015 Projects\CreatingWebAPIService\CreatingWebAPIService\bin\roslyn\System.Reflection.Metadata.dll
+C:\VS 2015 Projects\CreatingWebAPIService\CreatingWebAPIService\bin\roslyn\vbc.exe
+C:\VS 2015 Projects\CreatingWebAPIService\CreatingWebAPIService\bin\roslyn\VBCSCompiler.exe
+C:\VS 2015 Projects\CreatingWebAPIService\CreatingWebAPIService\bin\roslyn\VBCSCompiler.exe.config
+C:\VS 2015 Projects\CreatingWebAPIService\CreatingWebAPIService\bin\CreatingWebAPIService.dll.config
+C:\VS 2015 Projects\CreatingWebAPIService\CreatingWebAPIService\bin\CreatingWebAPIService.dll
+C:\VS 2015 Projects\CreatingWebAPIService\CreatingWebAPIService\bin\CreatingWebAPIService.pdb
+C:\VS 2015 Projects\CreatingWebAPIService\CreatingWebAPIService\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\VS 2015 Projects\CreatingWebAPIService\CreatingWebAPIService\bin\Newtonsoft.Json.dll
+C:\VS 2015 Projects\CreatingWebAPIService\CreatingWebAPIService\bin\System.Net.Http.Formatting.dll
+C:\VS 2015 Projects\CreatingWebAPIService\CreatingWebAPIService\bin\System.Web.Http.dll
+C:\VS 2015 Projects\CreatingWebAPIService\CreatingWebAPIService\bin\System.Web.Http.WebHost.dll
+C:\VS 2015 Projects\CreatingWebAPIService\CreatingWebAPIService\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\VS 2015 Projects\CreatingWebAPIService\CreatingWebAPIService\bin\Newtonsoft.Json.xml
+C:\VS 2015 Projects\CreatingWebAPIService\CreatingWebAPIService\bin\System.Net.Http.Formatting.xml
+C:\VS 2015 Projects\CreatingWebAPIService\CreatingWebAPIService\bin\System.Web.Http.xml
+C:\VS 2015 Projects\CreatingWebAPIService\CreatingWebAPIService\bin\System.Web.Http.WebHost.xml
+C:\VS 2015 Projects\CreatingWebAPIService\CreatingWebAPIService\obj\Debug\CreatingWebAPIService.csprojResolveAssemblyReference.cache
+C:\VS 2015 Projects\CreatingWebAPIService\CreatingWebAPIService\obj\Debug\CreatingWebAPIService.dll
+C:\VS 2015 Projects\CreatingWebAPIService\CreatingWebAPIService\obj\Debug\CreatingWebAPIService.pdb
+C:\Users\scott\Downloads\CreatingWebAPIService\CreatingWebAPIService\CreatingWebAPIService\bin\roslyn\csc.exe
+C:\Users\scott\Downloads\CreatingWebAPIService\CreatingWebAPIService\CreatingWebAPIService\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\scott\Downloads\CreatingWebAPIService\CreatingWebAPIService\CreatingWebAPIService\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\scott\Downloads\CreatingWebAPIService\CreatingWebAPIService\CreatingWebAPIService\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\scott\Downloads\CreatingWebAPIService\CreatingWebAPIService\CreatingWebAPIService\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\scott\Downloads\CreatingWebAPIService\CreatingWebAPIService\CreatingWebAPIService\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\scott\Downloads\CreatingWebAPIService\CreatingWebAPIService\CreatingWebAPIService\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\scott\Downloads\CreatingWebAPIService\CreatingWebAPIService\CreatingWebAPIService\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\scott\Downloads\CreatingWebAPIService\CreatingWebAPIService\CreatingWebAPIService\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\scott\Downloads\CreatingWebAPIService\CreatingWebAPIService\CreatingWebAPIService\bin\roslyn\vbc.exe
+C:\Users\scott\Downloads\CreatingWebAPIService\CreatingWebAPIService\CreatingWebAPIService\bin\roslyn\VBCSCompiler.exe
+C:\Users\scott\Downloads\CreatingWebAPIService\CreatingWebAPIService\CreatingWebAPIService\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\scott\Downloads\CreatingWebAPIService\CreatingWebAPIService\CreatingWebAPIService\bin\CreatingWebAPIService.dll.config
+C:\Users\scott\Downloads\CreatingWebAPIService\CreatingWebAPIService\CreatingWebAPIService\bin\CreatingWebAPIService.dll
+C:\Users\scott\Downloads\CreatingWebAPIService\CreatingWebAPIService\CreatingWebAPIService\bin\CreatingWebAPIService.pdb
+C:\Users\scott\Downloads\CreatingWebAPIService\CreatingWebAPIService\CreatingWebAPIService\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\scott\Downloads\CreatingWebAPIService\CreatingWebAPIService\CreatingWebAPIService\bin\Newtonsoft.Json.dll
+C:\Users\scott\Downloads\CreatingWebAPIService\CreatingWebAPIService\CreatingWebAPIService\bin\System.Net.Http.Formatting.dll
+C:\Users\scott\Downloads\CreatingWebAPIService\CreatingWebAPIService\CreatingWebAPIService\bin\System.Web.Http.dll
+C:\Users\scott\Downloads\CreatingWebAPIService\CreatingWebAPIService\CreatingWebAPIService\bin\System.Web.Http.WebHost.dll
+C:\Users\scott\Downloads\CreatingWebAPIService\CreatingWebAPIService\CreatingWebAPIService\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\scott\Downloads\CreatingWebAPIService\CreatingWebAPIService\CreatingWebAPIService\bin\Newtonsoft.Json.xml
+C:\Users\scott\Downloads\CreatingWebAPIService\CreatingWebAPIService\CreatingWebAPIService\bin\System.Net.Http.Formatting.xml
+C:\Users\scott\Downloads\CreatingWebAPIService\CreatingWebAPIService\CreatingWebAPIService\bin\System.Web.Http.xml
+C:\Users\scott\Downloads\CreatingWebAPIService\CreatingWebAPIService\CreatingWebAPIService\bin\System.Web.Http.WebHost.xml
+C:\Users\scott\Downloads\CreatingWebAPIService\CreatingWebAPIService\CreatingWebAPIService\obj\Debug\CreatingWebAPIService.csprojResolveAssemblyReference.cache
+C:\Users\scott\Downloads\CreatingWebAPIService\CreatingWebAPIService\CreatingWebAPIService\obj\Debug\CreatingWebAPIService.dll
+C:\Users\scott\Downloads\CreatingWebAPIService\CreatingWebAPIService\CreatingWebAPIService\obj\Debug\CreatingWebAPIService.pdb
+C:\Users\scotty\Documents\Visual Studio 2015\Projects\CreatingWebAPIService\CreatingWebAPIService\bin\roslyn\csc.exe
+C:\Users\scotty\Documents\Visual Studio 2015\Projects\CreatingWebAPIService\CreatingWebAPIService\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\scotty\Documents\Visual Studio 2015\Projects\CreatingWebAPIService\CreatingWebAPIService\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\scotty\Documents\Visual Studio 2015\Projects\CreatingWebAPIService\CreatingWebAPIService\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\scotty\Documents\Visual Studio 2015\Projects\CreatingWebAPIService\CreatingWebAPIService\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\scotty\Documents\Visual Studio 2015\Projects\CreatingWebAPIService\CreatingWebAPIService\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\scotty\Documents\Visual Studio 2015\Projects\CreatingWebAPIService\CreatingWebAPIService\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\scotty\Documents\Visual Studio 2015\Projects\CreatingWebAPIService\CreatingWebAPIService\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\scotty\Documents\Visual Studio 2015\Projects\CreatingWebAPIService\CreatingWebAPIService\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\scotty\Documents\Visual Studio 2015\Projects\CreatingWebAPIService\CreatingWebAPIService\bin\roslyn\vbc.exe
+C:\Users\scotty\Documents\Visual Studio 2015\Projects\CreatingWebAPIService\CreatingWebAPIService\bin\roslyn\VBCSCompiler.exe
+C:\Users\scotty\Documents\Visual Studio 2015\Projects\CreatingWebAPIService\CreatingWebAPIService\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\scotty\Documents\Visual Studio 2015\Projects\CreatingWebAPIService\CreatingWebAPIService\bin\CreatingWebAPIService.dll.config
+C:\Users\scotty\Documents\Visual Studio 2015\Projects\CreatingWebAPIService\CreatingWebAPIService\bin\CreatingWebAPIService.dll
+C:\Users\scotty\Documents\Visual Studio 2015\Projects\CreatingWebAPIService\CreatingWebAPIService\bin\CreatingWebAPIService.pdb
+C:\Users\scotty\Documents\Visual Studio 2015\Projects\CreatingWebAPIService\CreatingWebAPIService\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\scotty\Documents\Visual Studio 2015\Projects\CreatingWebAPIService\CreatingWebAPIService\bin\Newtonsoft.Json.dll
+C:\Users\scotty\Documents\Visual Studio 2015\Projects\CreatingWebAPIService\CreatingWebAPIService\bin\System.Net.Http.Formatting.dll
+C:\Users\scotty\Documents\Visual Studio 2015\Projects\CreatingWebAPIService\CreatingWebAPIService\bin\System.Web.Http.dll
+C:\Users\scotty\Documents\Visual Studio 2015\Projects\CreatingWebAPIService\CreatingWebAPIService\bin\System.Web.Http.WebHost.dll
+C:\Users\scotty\Documents\Visual Studio 2015\Projects\CreatingWebAPIService\CreatingWebAPIService\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\scotty\Documents\Visual Studio 2015\Projects\CreatingWebAPIService\CreatingWebAPIService\bin\Newtonsoft.Json.xml
+C:\Users\scotty\Documents\Visual Studio 2015\Projects\CreatingWebAPIService\CreatingWebAPIService\bin\System.Net.Http.Formatting.xml
+C:\Users\scotty\Documents\Visual Studio 2015\Projects\CreatingWebAPIService\CreatingWebAPIService\bin\System.Web.Http.xml
+C:\Users\scotty\Documents\Visual Studio 2015\Projects\CreatingWebAPIService\CreatingWebAPIService\bin\System.Web.Http.WebHost.xml
+C:\Users\scotty\Documents\Visual Studio 2015\Projects\CreatingWebAPIService\CreatingWebAPIService\obj\Debug\CreatingWebAPIService.csprojResolveAssemblyReference.cache
+C:\Users\scotty\Documents\Visual Studio 2015\Projects\CreatingWebAPIService\CreatingWebAPIService\obj\Debug\CreatingWebAPIService.dll
+C:\Users\scotty\Documents\Visual Studio 2015\Projects\CreatingWebAPIService\CreatingWebAPIService\obj\Debug\CreatingWebAPIService.pdb
+G:\CreatingWebAPIService\CreatingWebAPIService\bin\roslyn\csc.exe
+G:\CreatingWebAPIService\CreatingWebAPIService\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+G:\CreatingWebAPIService\CreatingWebAPIService\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+G:\CreatingWebAPIService\CreatingWebAPIService\bin\roslyn\Microsoft.CodeAnalysis.dll
+G:\CreatingWebAPIService\CreatingWebAPIService\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+G:\CreatingWebAPIService\CreatingWebAPIService\bin\roslyn\Microsoft.CSharp.Core.targets
+G:\CreatingWebAPIService\CreatingWebAPIService\bin\roslyn\Microsoft.VisualBasic.Core.targets
+G:\CreatingWebAPIService\CreatingWebAPIService\bin\roslyn\System.Collections.Immutable.dll
+G:\CreatingWebAPIService\CreatingWebAPIService\bin\roslyn\System.Reflection.Metadata.dll
+G:\CreatingWebAPIService\CreatingWebAPIService\bin\roslyn\vbc.exe
+G:\CreatingWebAPIService\CreatingWebAPIService\bin\roslyn\VBCSCompiler.exe
+G:\CreatingWebAPIService\CreatingWebAPIService\bin\roslyn\VBCSCompiler.exe.config
+G:\CreatingWebAPIService\CreatingWebAPIService\bin\CreatingWebAPIService.dll.config
+G:\CreatingWebAPIService\CreatingWebAPIService\bin\CreatingWebAPIService.dll
+G:\CreatingWebAPIService\CreatingWebAPIService\bin\CreatingWebAPIService.pdb
+G:\CreatingWebAPIService\CreatingWebAPIService\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+G:\CreatingWebAPIService\CreatingWebAPIService\bin\Newtonsoft.Json.dll
+G:\CreatingWebAPIService\CreatingWebAPIService\bin\System.Net.Http.Formatting.dll
+G:\CreatingWebAPIService\CreatingWebAPIService\bin\System.Web.Http.dll
+G:\CreatingWebAPIService\CreatingWebAPIService\bin\System.Web.Http.WebHost.dll
+G:\CreatingWebAPIService\CreatingWebAPIService\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+G:\CreatingWebAPIService\CreatingWebAPIService\bin\Newtonsoft.Json.xml
+G:\CreatingWebAPIService\CreatingWebAPIService\bin\System.Net.Http.Formatting.xml
+G:\CreatingWebAPIService\CreatingWebAPIService\bin\System.Web.Http.xml
+G:\CreatingWebAPIService\CreatingWebAPIService\bin\System.Web.Http.WebHost.xml
+G:\CreatingWebAPIService\CreatingWebAPIService\obj\Debug\CreatingWebAPIService.csprojResolveAssemblyReference.cache
+G:\CreatingWebAPIService\CreatingWebAPIService\obj\Debug\CreatingWebAPIService.dll
+G:\CreatingWebAPIService\CreatingWebAPIService\obj\Debug\CreatingWebAPIService.pdb
